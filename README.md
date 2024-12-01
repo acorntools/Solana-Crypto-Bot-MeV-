@@ -2,7 +2,6 @@
 
 ![Screen Shot 2567-12-01 at 19 49 32](https://github.com/user-attachments/assets/f7008697-e9e7-4442-b143-e257133f844d)
 
-Here’s a professional and comprehensive README.md file for your Solana MEV bot:
 
 Solana MEV Bot
 
